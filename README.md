@@ -3,6 +3,8 @@ This docker-compose file is mainly based on the guide:
 
 * https://github.com/tiangolo/uwsgi-nginx-docker
 
+Both parts, the `docker-compose.yml` and `app/main.py` can be seen as a first starting point to develop a python3 web application.
+
 ## start
 
 just run
