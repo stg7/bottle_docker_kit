@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """
 This example is based on
     * https://bottlepy.org/docs/dev
