@@ -7,6 +7,11 @@ Both parts, the `docker-compose.yml` and `app/main.py` can be seen as a first st
 
 ## start
 
+run
+```
+docker build -t bottleserver .
+```
+
 just run
 ```
 docker-compose up -d web
