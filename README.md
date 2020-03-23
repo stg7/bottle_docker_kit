@@ -18,7 +18,7 @@ docker-compose up -d web
 ```
 and now your web-server is running at [http://localhost:8080](http://localhost:8080)
 
-Defalult settings are performing python autoload, if the `main.py` is changed, for a production setup this should be changed (check `app/uwsgi.ini` and comment `py-autoreload = 2` line).
+Default settings are performing python autoload, if the `main.py` is changed, for a production setup this should be changed (check `app/uwsgi.ini` and comment `py-autoreload = 2` line).
 
 
 ## example api runs
